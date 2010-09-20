@@ -1,0 +1,7 @@
+Thank you for your interest in my Active Directory plugin for the CFWheels framework.
+
+I know it is customary to look for information about a project in a README file such as this one, but the majority of information that a Coldfusion developer would be interested in can be found in the index.cfm file.
+
+Actual installation is like all other CFWheels plugins-- just download the Active Directory ZIP file and drop it into the plugins folder of your CFWheels folder structure.  CFWheels will handle the rest if it has sufficient permissions to the plugins folder to create what it needs.
+
+Enjoy!
